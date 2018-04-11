@@ -1,0 +1,729 @@
+0.0,0.0,94
+19.1,13.9123,4
+19.5,14.198,2
+1984,Large Cars,56
+1984,Two Seaters,50
+1984,Compact Cars,245
+1984,Midsize Cars,217
+1984,Subcompact Cars,370
+1984,Minicompact Cars,23
+1984,Vans Cargo Type,80
+1984,Small Station Wagons,111
+1984,Vans Passenger Type,58
+1984,Midsize Station Wagons,97
+1984,Small Pickup Trucks 2WD,118
+1984,Small Pickup Trucks 4WD,53
+1984,Special Purpose Vehicles,19
+1984,Standard Pickup Trucks 2WD,143
+1984,Standard Pickup Trucks 4WD,101
+1984,Special Purpose Vehicle 2WD,60
+1984,Special Purpose Vehicle 4WD,147
+1984,Midsize-Large Station Wagons,16
+1985,Vans,162
+1985,Large Cars,51
+1985,Two Seaters,43
+1985,Compact Cars,233
+1985,Midsize Cars,187
+1985,Subcompact Cars,287
+1985,Minicompact Cars,14
+1985,Small Pickup Trucks,112
+1985,Small Station Wagons,94
+1985,Standard Pickup Trucks,220
+1985,Special Purpose Vehicles,85
+1985,Special Purpose Vehicle 2WD,82
+1985,Special Purpose Vehicle 4WD,39
+1985,Midsize-Large Station Wagons,92
+1986,Vans,139
+1986,Large Cars,26
+1986,Two Seaters,39
+1986,Compact Cars,154
+1986,Midsize Cars,114
+1986,Subcompact Cars,191
+1986,Minicompact Cars,19
+1986,Small Pickup Trucks,72
+1986,Small Station Wagons,55
+1986,Standard Pickup Trucks,191
+1986,Special Purpose Vehicles,90
+1986,Special Purpose Vehicle 2WD,60
+1986,Midsize-Large Station Wagons,60
+1987,Vans,116
+1987,Large Cars,26
+1987,Two Seaters,43
+1987,Compact Cars,187
+1987,Midsize Cars,110
+1987,Subcompact Cars,209
+1987,Minicompact Cars,24
+1987,Small Pickup Trucks,63
+1987,Small Station Wagons,57
+1987,Standard Pickup Trucks,194
+1987,Small Pickup Trucks 2WD,8
+1987,Small Pickup Trucks 4WD,3
+1987,Special Purpose Vehicles,89
+1987,Standard Pickup Trucks 2WD,1
+1987,Special Purpose Vehicle 2WD,60
+1987,Special Purpose Vehicle 4WD,2
+1987,Midsize-Large Station Wagons,55
+1988,Vans,99
+1988,Large Cars,28
+1988,Two Seaters,45
+1988,Compact Cars,170
+1988,Midsize Cars,101
+1988,Subcompact Cars,177
+1988,Minicompact Cars,22
+1988,Small Pickup Trucks,53
+1988,Small Station Wagons,59
+1988,Standard Pickup Trucks,200
+1988,Special Purpose Vehicles,71
+1988,Standard Pickup Trucks 4WD,2
+1988,Special Purpose Vehicle 2WD,47
+1988,Special Purpose Vehicle 4WD,1
+1988,Midsize-Large Station Wagons,55
+1989,Vans,98
+1989,Large Cars,23
+1989,Two Seaters,45
+1989,Compact Cars,156
+1989,Midsize Cars,140
+1989,Subcompact Cars,196
+1989,Minicompact Cars,19
+1989,Small Pickup Trucks,44
+1989,Small Station Wagons,44
+1989,Standard Pickup Trucks,196
+1989,Small Pickup Trucks 2WD,1
+1989,Small Pickup Trucks 4WD,1
+1989,Special Purpose Vehicles,88
+1989,Special Purpose Vehicle 2WD,52
+1989,Special Purpose Vehicle 4WD,1
+1989,Midsize-Large Station Wagons,49
+1990,Vans,80
+1990,Large Cars,25
+1990,Two Seaters,41
+1990,Compact Cars,148
+1990,Midsize Cars,104
+1990,Vans Passenger,1
+1990,Subcompact Cars,194
+1990,Minicompact Cars,15
+1990,Vans Cargo Type,1
+1990,Small Pickup Trucks,28
+1990,Small Station Wagons,38
+1990,Standard Pickup Trucks,214
+1990,Small Pickup Trucks 2WD,2
+1990,Special Purpose Vehicles,84
+1990,Standard Pickup Trucks 2WD,2
+1990,Special Purpose Vehicle 2WD,56
+1990,Midsize-Large Station Wagons,45
+1991,Vans,75
+1991,Large Cars,27
+1991,Two Seaters,55
+1991,Compact Cars,168
+1991,Midsize Cars,111
+1991,Subcompact Cars,227
+1991,Minicompact Cars,21
+1991,Small Pickup Trucks,33
+1991,Small Station Wagons,30
+1991,Standard Pickup Trucks,207
+1991,Special Purpose Vehicles,110
+1991,Standard Pickup Trucks 4WD,4
+1991,Special Purpose Vehicle 2WD,22
+1991,Special Purpose Vehicle 4WD,2
+1991,Midsize-Large Station Wagons,40
+1992,Vans,76
+1992,Large Cars,37
+1992,Two Seaters,46
+1992,Compact Cars,161
+1992,Midsize Cars,114
+1992,Subcompact Cars,219
+1992,Minicompact Cars,25
+1992,Small Pickup Trucks,35
+1992,Small Station Wagons,23
+1992,Standard Pickup Trucks,181
+1992,Special Purpose Vehicles,144
+1992,Standard Pickup Trucks 2WD,1
+1992,Midsize-Large Station Wagons,59
+1993,Vans,72
+1993,Large Cars,40
+1993,Two Seaters,50
+1993,Compact Cars,151
+1993,Midsize Cars,108
+1993,Subcompact Cars,200
+1993,Minicompact Cars,26
+1993,Vans Cargo Type,2
+1993,Small Pickup Trucks,22
+1993,Small Station Wagons,28
+1993,Vans Passenger Type,3
+1993,Standard Pickup Trucks,176
+1993,Special Purpose Vehicles,138
+1993,Standard Pickup Trucks 2WD,11
+1993,Standard Pickup Trucks 4WD,6
+1993,Special Purpose Vehicle 2WD,1
+1993,Special Purpose Vehicle 4WD,2
+1993,Midsize-Large Station Wagons,57
+1994,Vans,70
+1994,Large Cars,40
+1994,Two Seaters,39
+1994,Compact Cars,143
+1994,Midsize Cars,75
+1994,Subcompact Cars,169
+1994,Minicompact Cars,24
+1994,Small Pickup Trucks,22
+1994,Small Station Wagons,30
+1994,Standard Pickup Trucks,177
+1994,Special Purpose Vehicles,145
+1994,Standard Pickup Trucks 2WD,1
+1994,Standard Pickup Trucks 4WD,1
+1994,Special Purpose Vehicle 2WD,3
+1994,Special Purpose Vehicle 4WD,1
+1994,Midsize-Large Station Wagons,42
+1995,Vans,60
+1995,Large Cars,62
+1995,Two Seaters,35
+1995,Compact Cars,155
+1995,Midsize Cars,79
+1995,Vans Passenger,1
+1995,Subcompact Cars,149
+1995,Minicompact Cars,25
+1995,Vans Cargo Type,1
+1995,Small Pickup Trucks,22
+1995,Small Station Wagons,25
+1995,Standard Pickup Trucks,179
+1995,Special Purpose Vehicles,125
+1995,Standard Pickup Trucks 4WD,1
+1995,Standard Pickup Trucks/2wd,4
+1995,Special Purpose Vehicle 2WD,1
+1995,Special Purpose Vehicle 4WD,4
+1995,Midsize-Large Station Wagons,39
+1996,Vans,48
+1996,Large Cars,43
+1996,Two Seaters,27
+1996,Compact Cars,128
+1996,Midsize Cars,75
+1996,Subcompact Cars,121
+1996,Minicompact Cars,23
+1996,Small Pickup Trucks,17
+1996,Small Station Wagons,21
+1996,Standard Pickup Trucks,115
+1996,Special Purpose Vehicles,126
+1996,Midsize-Large Station Wagons,29
+1997,Vans,46
+1997,Large Cars,39
+1997,Two Seaters,28
+1997,Compact Cars,119
+1997,Midsize Cars,82
+1997,Subcompact Cars,117
+1997,Minicompact Cars,30
+1997,Small Pickup Trucks,15
+1997,Small Station Wagons,18
+1997,Standard Pickup Trucks,104
+1997,Small Pickup Trucks 2WD,2
+1997,Special Purpose Vehicles,139
+1997,Special Purpose Vehicle 4WD,1
+1997,Midsize-Large Station Wagons,18
+1997,Special Purpose Vehicles/2wd,2
+1997,Special Purpose Vehicles/4wd,2
+1998,Large Cars,33
+1998,Two Seaters,28
+1998,Compact Cars,116
+1998,Midsize Cars,97
+1998,Subcompact Cars,126
+1998,Minicompact Cars,26
+1998,Vans Cargo Type,21
+1998,Small Station Wagons,23
+1998,Vans Passenger Type,17
+1998,Midsize Station Wagons,25
+1998,Small Pickup Trucks 2WD,20
+1998,Standard Pickup Trucks 2WD,61
+1998,Standard Pickup Trucks 4WD,50
+1998,Special Purpose Vehicle 2WD,84
+1998,Special Purpose Vehicle 4WD,85
+1999,Large Cars,32
+1999,Two Seaters,33
+1999,Compact Cars,127
+1999,Midsize Cars,110
+1999,Minivan - 2WD,29
+1999,Minivan - 4WD,3
+1999,Subcompact Cars,116
+1999,Minicompact Cars,22
+1999,Vans Cargo Type,21
+1999,Small Station Wagons,25
+1999,Vans Passenger Type,17
+1999,Midsize Station Wagons,32
+1999,Small Pickup Trucks 2WD,12
+1999,Standard Pickup Trucks 2WD,60
+1999,Standard Pickup Trucks 4WD,50
+1999,Special Purpose Vehicle 4WD,1
+1999,Sport Utility Vehicle - 2WD,71
+1999,Sport Utility Vehicle - 4WD,91
+2000,Large Cars,32
+2000,Two Seaters,33
+2000,Compact Cars,130
+2000,Midsize Cars,110
+2000,Minivan - 2WD,29
+2000,Minivan - 4WD,3
+2000,Subcompact Cars,104
+2000,Minicompact Cars,18
+2000,Vans Cargo Type,21
+2000,Small Station Wagons,23
+2000,Vans Passenger Type,17
+2000,Midsize Station Wagons,34
+2000,Small Pickup Trucks 2WD,17
+2000,Standard Pickup Trucks 2WD,58
+2000,Standard Pickup Trucks 4WD,47
+2000,Sport Utility Vehicle - 2WD,74
+2000,Sport Utility Vehicle - 4WD,90
+2001,Large Cars,36
+2001,Two Seaters,43
+2001,Compact Cars,163
+2001,Midsize Cars,105
+2001,Minivan - 2WD,21
+2001,Minivan - 4WD,3
+2001,Subcompact Cars,86
+2001,Minicompact Cars,22
+2001,Vans Cargo Type,23
+2001,Small Station Wagons,27
+2001,Vans Passenger Type,18
+2001,Midsize Station Wagons,38
+2001,Small Pickup Trucks 2WD,11
+2001,Standard Pickup Trucks 2WD,65
+2001,Standard Pickup Trucks 4WD,52
+2001,Special Purpose Vehicle 4WD,1
+2001,Sport Utility Vehicle - 2WD,88
+2001,Sport Utility Vehicle - 4WD,109
+2002,Large Cars,35
+2002,Two Seaters,48
+2002,Compact Cars,183
+2002,Midsize Cars,105
+2002,Minivan - 2WD,23
+2002,Minivan - 4WD,6
+2002,Subcompact Cars,84
+2002,Minicompact Cars,28
+2002,Vans Cargo Type,22
+2002,Small Station Wagons,34
+2002,Vans Passenger Type,16
+2002,Midsize Station Wagons,39
+2002,Small Pickup Trucks 2WD,10
+2002,Standard Pickup Trucks 2WD,65
+2002,Standard Pickup Trucks 4WD,53
+2002,Sport Utility Vehicle - 2WD,102
+2002,Sport Utility Vehicle - 4WD,122
+2003,Large Cars,40
+2003,Two Seaters,53
+2003,Compact Cars,186
+2003,Midsize Cars,98
+2003,Minivan - 2WD,18
+2003,Minivan - 4WD,5
+2003,Subcompact Cars,72
+2003,Minicompact Cars,55
+2003,Vans Cargo Type,33
+2003,Small Station Wagons,43
+2003,Vans Passenger Type,13
+2003,Midsize Station Wagons,43
+2003,Small Pickup Trucks 2WD,8
+2003,Special Purpose Vehicle,1
+2003,Special Purpose Vehicles,2
+2003,Standard Pickup Trucks 2WD,65
+2003,Standard Pickup Trucks 4WD,55
+2003,Sport Utility Vehicle - 2WD,108
+2003,Sport Utility Vehicle - 4WD,146
+2004,Large Cars,53
+2004,Two Seaters,59
+2004,Compact Cars,190
+2004,Midsize Cars,119
+2004,Minivan - 2WD,19
+2004,Minivan - 4WD,6
+2004,Subcompact Cars,82
+2004,Minicompact Cars,54
+2004,Vans Cargo Type,27
+2004,Small Station Wagons,42
+2004,Vans Passenger Type,16
+2004,Midsize Station Wagons,48
+2004,Standard Pickup Trucks 2WD,80
+2004,Standard Pickup Trucks 4WD,66
+2004,Sport Utility Vehicle - 2WD,106
+2004,Sport Utility Vehicle - 4WD,155
+2005,Large Cars,60
+2005,Two Seaters,68
+2005,Compact Cars,192
+2005,Midsize Cars,119
+2005,Minivan - 2WD,25
+2005,Minivan - 4WD,5
+2005,Subcompact Cars,73
+2005,Minicompact Cars,81
+2005,Vans Cargo Type,23
+2005,Small Station Wagons,53
+2005,Vans Passenger Type,12
+2005,Midsize Station Wagons,37
+2005,Standard Pickup Trucks 2WD,78
+2005,Standard Pickup Trucks 4WD,57
+2005,Sport Utility Vehicle - 2WD,118
+2005,Sport Utility Vehicle - 4WD,165
+2006,Large Cars,75
+2006,Two Seaters,69
+2006,Compact Cars,138
+2006,Midsize Cars,124
+2006,Minivan - 2WD,25
+2006,Minivan - 4WD,5
+2006,Subcompact Cars,83
+2006,Minicompact Cars,44
+2006,Vans Cargo Type,14
+2006,Small Station Wagons,47
+2006,Vans Passenger Type,8
+2006,Midsize Station Wagons,28
+2006,Standard Pickup Trucks 2WD,89
+2006,Standard Pickup Trucks 4WD,66
+2006,Sport Utility Vehicle - 2WD,124
+2006,Sport Utility Vehicle - 4WD,165
+2007,Large Cars,66
+2007,Two Seaters,71
+2007,Compact Cars,114
+2007,Midsize Cars,133
+2007,Minivan - 2WD,22
+2007,Minivan - 4WD,1
+2007,Subcompact Cars,91
+2007,Minicompact Cars,49
+2007,Vans Cargo Type,18
+2007,Small Station Wagons,47
+2007,Vans Passenger Type,8
+2007,Midsize Station Wagons,32
+2007,Standard Pickup Trucks 2WD,93
+2007,Standard Pickup Trucks 4WD,73
+2007,Sport Utility Vehicle - 2WD,137
+2007,Sport Utility Vehicle - 4WD,171
+2008,Large Cars,71
+2008,Two Seaters,84
+2008,Compact Cars,125
+2008,Midsize Cars,138
+2008,Minivan - 2WD,19
+2008,Minivan - 4WD,1
+2008,Subcompact Cars,126
+2008,Minicompact Cars,48
+2008,Vans Cargo Type,18
+2008,Small Station Wagons,55
+2008,Vans Passenger Type,8
+2008,Midsize Station Wagons,13
+2008,Small Pickup Trucks 2WD,37
+2008,Small Pickup Trucks 4WD,22
+2008,Standard Pickup Trucks 2WD,49
+2008,Standard Pickup Trucks 4WD,40
+2008,Sport Utility Vehicle - 2WD,155
+2008,Sport Utility Vehicle - 4WD,178
+2009,Large Cars,74
+2009,Two Seaters,74
+2009,Compact Cars,132
+2009,Midsize Cars,127
+2009,Minivan - 2WD,16
+2009,Minivan - 4WD,1
+2009,Subcompact Cars,118
+2009,Minicompact Cars,49
+2009,Vans Cargo Type,18
+2009,Small Station Wagons,67
+2009,Vans Passenger Type,8
+2009,Midsize Station Wagons,11
+2009,Small Pickup Trucks 2WD,35
+2009,Small Pickup Trucks 4WD,24
+2009,Standard Pickup Trucks 2WD,42
+2009,Standard Pickup Trucks 4WD,41
+2009,Sport Utility Vehicle - 2WD,163
+2009,Sport Utility Vehicle - 4WD,184
+2010,Large Cars,73
+2010,Two Seaters,66
+2010,Compact Cars,142
+2010,Midsize Cars,135
+2010,Minivan - 2WD,15
+2010,Minivan - 4WD,1
+2010,Subcompact Cars,118
+2010,Minicompact Cars,49
+2010,Vans Cargo Type,10
+2010,Small Station Wagons,68
+2010,Vans Passenger Type,4
+2010,Midsize Station Wagons,7
+2010,Small Pickup Trucks 2WD,33
+2010,Small Pickup Trucks 4WD,22
+2010,Standard Pickup Trucks 2WD,28
+2010,Standard Pickup Trucks 4WD,29
+2010,Special Purpose Vehicle 2WD,1
+2010,Sport Utility Vehicle - 2WD,131
+2010,Sport Utility Vehicle - 4WD,169
+2011,Large Cars,78
+2011,Two Seaters,72
+2011,Compact Cars,135
+2011,Midsize Cars,133
+2011,Minivan - 2WD,10
+2011,Minivan - 4WD,1
+2011,Subcompact Cars,104
+2011,Minicompact Cars,56
+2011,Vans Cargo Type,22
+2011,Small Station Wagons,65
+2011,Vans Passenger Type,14
+2011,Midsize Station Wagons,4
+2011,Small Pickup Trucks 2WD,33
+2011,Small Pickup Trucks 4WD,23
+2011,Standard Pickup Trucks 2WD,29
+2011,Standard Pickup Trucks 4WD,30
+2011,Special Purpose Vehicle 2WD,3
+2011,Sport Utility Vehicle - 2WD,131
+2011,Sport Utility Vehicle - 4WD,178
+2012,Large Cars,78
+2012,Two Seaters,77
+2012,Compact Cars,150
+2012,Midsize Cars,136
+2012,Minivan - 2WD,11
+2012,Minivan - 4WD,1
+2012,Subcompact Cars,102
+2012,Minicompact Cars,72
+2012,Vans Cargo Type,22
+2012,Small Station Wagons,60
+2012,Vans Passenger Type,16
+2012,Midsize Station Wagons,5
+2012,Small Pickup Trucks 2WD,29
+2012,Small Pickup Trucks 4WD,21
+2012,Standard Pickup Trucks 2WD,27
+2012,Standard Pickup Trucks 4WD,27
+2012,Special Purpose Vehicle 2WD,6
+2012,Sport Utility Vehicle - 2WD,110
+2012,Sport Utility Vehicle - 4WD,156
+2013,Large Cars,89
+2013,Two Seaters,66
+2013,Compact Cars,179
+2013,Midsize Cars,172
+2013,Minivan - 2WD,12
+2013,Minivan - 4WD,1
+2013,Subcompact Cars,114
+2013,Minicompact Cars,55
+2013,Vans Cargo Type,19
+2013,Small Station Wagons,46
+2013,Vans Passenger Type,16
+2013,Midsize Station Wagons,3
+2013,Small Pickup Trucks 2WD,8
+2013,Small Pickup Trucks 4WD,6
+2013,Standard Pickup Trucks 2WD,30
+2013,Standard Pickup Trucks 4WD,29
+2013,Special Purpose Vehicle 2WD,6
+2013,Special Purpose Vehicle 4WD,1
+2013,Small Sport Utility Vehicle 2WD,70
+2013,Small Sport Utility Vehicle 4WD,86
+2013,Standard Sport Utility Vehicle 2WD,34
+2013,Standard Sport Utility Vehicle 4WD,79
+2014,Large Cars,98
+2014,Two Seaters,89
+2014,Compact Cars,191
+2014,Midsize Cars,201
+2014,Minivan - 2WD,13
+2014,Minivan - 4WD,1
+2014,Subcompact Cars,93
+2014,Minicompact Cars,51
+2014,Vans Cargo Type,18
+2014,Small Station Wagons,35
+2014,Vans Passenger Type,16
+2014,Midsize Station Wagons,4
+2014,Small Pickup Trucks 2WD,8
+2014,Small Pickup Trucks 4WD,6
+2014,Standard Pickup Trucks 2WD,22
+2014,Standard Pickup Trucks 4WD,24
+2014,Special Purpose Vehicle 2WD,11
+2014,Special Purpose Vehicle 4WD,1
+2014,Small Sport Utility Vehicle 2WD,72
+2014,Small Sport Utility Vehicle 4WD,93
+2014,Standard Sport Utility Vehicle 2WD,33
+2014,Standard Sport Utility Vehicle 4WD,76
+2015,Large Cars,107
+2015,Two Seaters,93
+2015,Compact Cars,199
+2015,Midsize Cars,194
+2015,Minivan - 2WD,13
+2015,Minivan - 4WD,1
+2015,Subcompact Cars,103
+2015,Minicompact Cars,55
+2015,Vans Cargo Type,4
+2015,Small Station Wagons,34
+2015,Vans Passenger Type,14
+2015,Midsize Station Wagons,8
+2015,Small Pickup Trucks 2WD,14
+2015,Small Pickup Trucks 4WD,10
+2015,Standard Pickup Trucks 2WD,19
+2015,Standard Pickup Trucks 4WD,18
+2015,Special Purpose Vehicle 2WD,16
+2015,Special Purpose Vehicle 4WD,3
+2015,Small Sport Utility Vehicle 2WD,79
+2015,Small Sport Utility Vehicle 4WD,106
+2015,Standard Sport Utility Vehicle 2WD,40
+2015,Standard Sport Utility Vehicle 4WD,78
+2016,Large Cars,107
+2016,Two Seaters,79
+2016,Compact Cars,194
+2016,Midsize Cars,190
+2016,Minivan - 2WD,10
+2016,Minivan - 4WD,1
+2016,Subcompact Cars,99
+2016,Minicompact Cars,52
+2016,Small Station Wagons,35
+2016,Vans Passenger Type,6
+2016,Midsize Station Wagons,9
+2016,Small Pickup Trucks 2WD,14
+2016,Small Pickup Trucks 4WD,12
+2016,Standard Pickup Trucks 2WD,20
+2016,Standard Pickup Trucks 4WD,18
+2016,Special Purpose Vehicle 2WD,21
+2016,Special Purpose Vehicle 4WD,3
+2016,Small Sport Utility Vehicle 2WD,77
+2016,Small Sport Utility Vehicle 4WD,104
+2016,Standard Sport Utility Vehicle 2WD,32
+2016,Standard Sport Utility Vehicle 4WD,86
+2017,Large Cars,8
+2017,Two Seaters,15
+2017,Compact Cars,20
+2017,Midsize Cars,18
+2017,Minivan - 2WD,4
+2017,Subcompact Cars,14
+2017,Minicompact Cars,20
+2017,Small Pickup Trucks 2WD,1
+2017,Standard Pickup Trucks 4WD,1
+2017,Small Sport Utility Vehicle 2WD,19
+2017,Small Sport Utility Vehicle 4WD,28
+2017,Standard Sport Utility Vehicle 2WD,2
+2017,Standard Sport Utility Vehicle 4WD,8
+21.2,15.2721,2
+21.3,15.341,2
+21.5,0.0,1
+21.5,15.4774,2
+21.7,15.7651,1
+21.9,15.9072,2
+22.3,16.0359,2
+22.3,16.0438,2
+22.5,16.207,6
+23.0,16.6879,3
+23.3,16.7649,3
+23.4,16.8069,1
+23.4,16.8219,4
+23.4,16.9713,3
+23.8,17.0993,2
+23.8,17.2545,6
+23.9,17.1695,2
+24.0,17.2533,1
+24.1,17.3097,1
+24.1,17.3251,6
+24.4,17.6789,1
+24.5,17.5866,2
+24.6,17.6548,2
+24.8,17.9616,1
+25.0,17.8925,1
+25.1,17.9769,1
+25.1,17.9888,1
+25.6,0.0,1
+25.6,18.3117,2
+26.2,18.9491,2
+26.4,0.0,1
+26.5,18.9417,1
+26.7,19.3011,3
+27.1,19.3602,4
+27.3,19.5405,1
+27.4,19.5466,2
+27.8,19.8339,1
+28.7,20.454,1
+28.7,20.472,6
+28.8,20.5603,2
+28.9,20.643,1
+28.9,20.8459,1
+29.0,20.7165,2
+29.0,20.9159,1
+29.3,21.126,1
+29.4,0.0,1
+29.7,21.4059,1
+30.0,21.384,2
+30.1,21.6856,1
+30.6,21.8123,1
+30.8,21.9111,4
+30.8,22.1745,1
+31.0,22.0197,2
+31.2,0.0,1
+31.2,22.1813,2
+31.3,22.296,9
+32.1,22.801,2
+32.6,23.102,2
+32.7,0.0,1
+32.7,23.1729,2
+32.8,23.2426,1
+33.1,0,1
+33.5,23.7444,2
+33.6,23.8548,2
+37.2,26.2695,2
+37.2,26.2696,1
+38.0,26.8058,1
+38.3,27.007,1
+39.1,27.5551,1
+39.5,27.7026,3
+39.6,27.8777,1
+40.0,20,1
+40.5,22,1
+41.8,29.3213,2
+66.2,46.4,2
+81.6,55.359,1
+94.0,65.9,1
+94.5,66.1,1
+123.0,86.1,1
+139.8,97.9,1
+141.1,99.0,2
+89.65,62.8,2
+123.63,86.5,1
+17.721,12.9258,2
+22.814,16.3924,1
+22.971,16.5023,1
+23.735,17.0704,1
+26.434,18.8991,1
+26.508,19.166,1
+26.508,19.1604,1
+21.1544,15.2675,1
+21.2981,15.3362,1
+21.3321,15.3598,1
+21.4116,15.4151,1
+21.4237,15.4238,1
+21.4296,15.4279,1
+21.4551,15.4458,1
+22.5913,16.2708,1
+22.6818,16.3342,1
+22.7596,16.355,1
+22.7773,16.3673,1
+22.8005,16.4185,1
+22.8009,16.4187,1
+22.8157,16.3936,1
+22.8192,16.4317,1
+22.8203,16.4324,1
+22.8499,16.4468,1
+22.9915,16.5167,1
+23.1983,16.6902,2
+23.4204,16.8495,1
+23.4238,16.852,1
+23.4489,16.9713,1
+23.4489,17.0059,1
+23.6706,17.0255,1
+23.6729,17.0271,1
+23.7356,17.0708,1
+24.7997,17.7451,2
+24.8419,17.8403,2
+26.0422,18.6512,1
+26.1905,18.7537,1
+28.1348,20.2849,1
+28.1348,20.3093,1
+28.4478,20.2922,8
+28.7294,20.5013,3
+28.7449,20.7057,1
+28.7473,20.4969,3
+29.5298,0.0,1
+29.5929,21.331,1
+29.5929,21.336,1
+29.6543,21.4059,1
+29.7974,21.2632,3
+30.4773,0,1
+30.5294,21.9856,1
+30.6499,21.7572,13
+31.4301,0,1
+31.4357,22.5931,1
+35.5453,0,1
+37.5301,19,1
+39.0649,27.5316,1
+39.2034,27.5946,1
+39.2672,27.6373,1
+39.3518,27.7108,1
+40.1833,28.2822,1
+40.1866,28.2844,1
+81.8574,57.3002,1
+103.4655,72.4259,3
+112.0736,78.4515,1
